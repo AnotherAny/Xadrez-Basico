@@ -5,10 +5,13 @@ body {
 
 img{
    width: 20px;
-   height: 20px
+   height: 20px;
 }
 
 p {
    text-align: center;
 }
  
+h1{
+   text-align: center;
+}
